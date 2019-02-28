@@ -1,0 +1,4 @@
+fur:red,black,white
+eyes:yellow,green,blue,brown
+emotions:embarassed,neutral
+relationships:friendly,hostile

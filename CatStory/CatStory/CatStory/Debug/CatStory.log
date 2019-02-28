@@ -1,0 +1,15 @@
+﻿  Background.cpp
+  Cat.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcclr.h(16): fatal error C1190: managed targeted code requires a '/clr' option
+  Error.cpp
+  Interface.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcclr.h(16): fatal error C1190: managed targeted code requires a '/clr' option
+  Look.cpp
+c:\users\olesya\source\repos\catstory\catstory\catstory\look.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcclr.h(16): fatal error C1190: managed targeted code requires a '/clr' option
+  OthersBehaviour.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcclr.h(16): fatal error C1190: managed targeted code requires a '/clr' option
+  SelfBehaviour.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcclr.h(16): fatal error C1190: managed targeted code requires a '/clr' option
+  Generating Code...

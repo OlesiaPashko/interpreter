@@ -1,0 +1,3 @@
+Who:he,she,it,they
+Whose:his,her,its,their
+Whom:him,her,it,them

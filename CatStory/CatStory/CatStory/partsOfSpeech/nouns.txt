@@ -1,0 +1,3 @@
+Persons:cat,hedgehog,fox
+Parts:eyes,fur
+Locations:park,city

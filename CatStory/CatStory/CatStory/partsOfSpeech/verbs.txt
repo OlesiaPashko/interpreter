@@ -1,0 +1,19 @@
+auxilary:is,are,was,were,has been,have been,had been,will be,have,has,had
+have:have, has, had, has had,have had,had had
+go:go,goes,went,is going,are going,was going,were going,has been going,have been going,had been going,has gone,have gone,had gone
+jump:jump,jumps,jumped,is jumping,are jumping,was jumping,were jumping,has been jumping,have been jumping,had been jumping,has jumped,have jumped,had jumped
+hiss:hiss,hisses,hissed,is hissing,are hissing,was hissing,were hissing,has been hissing,have been hissing,had been hissing,has hissed,have hissed,had hissed
+say:say,says,said,is saying,are saying,was saying,were saying,has been saying,have been saying,had been saying,has said,have said,had said
+purr:purr,purrs,purred,is purring,are purring,was purring,were purring,has been purring,have been purring,had been purring,has purred,have purred,had purred
+sit:sit,sits,sat,is sitting,are sitting,was sitting,were sitting,has been sitting,have been sitting,had been sitting,has sad,have sad,had sad
+run:run,runs,ran,is running,are running,was running,were running,has been running,have been running,had been running,has run,have run,had run
+sit down:sit down,sits down,sat down,is sitting down,are sitting down,was sitting down,were sitting down,has been sitting down,have been sitting down,had been sitting down,has sad down,have sad down,had sad down
+get up:get up,gets up,got up,is getting up,are getting up,was getting up,were getting up,has been getting up,have been getting up,had been getting up,has got up,have got up,had got up
+say hello:say hello,says hello,said hello,is saying hello,are saying hello,was saying hello,were saying hello,has been saying hello,have been saying hello,had been saying hello,has said hello,have said hello,had said hello
+run away:run away,runs away,ran away,is running away,are running away,was running away,were running away,has been running away,have been running away,had been running away,has run away,have run away,had run away
+go away:go away,goes away,went away,is going away,are going away,was going away,were going away,has been going away,have been going away,had been going away,has gone away,have gone away,had gone away
+say bye:say bye,says bye,said bye,is saying bye,are saying bye,was saying bye,were saying bye,has been saying bye,have been saying bye,had been saying bye,has said bye,have said bye,had said bye
+catch:catch,catches,caught,is catching,are catching,was catching,were catching,has been catching,have been catching,had been catching,has caught,have caught, had caught
+run in:run in,runs in,ran in,is running in,are running in,was running in,were running in,has been running in,have been running in,had been running in,has run in,have run in,had run in
+come:come,comes,came,is comming,are comming,was comming,were comming,has been comming,have been comming,had been comming,has come,have come,had come
+give five:give five,gives five,gave five,is giving five,are giving five,was giving five,were giving five,has been giving five,have been giving five,had been giving five,has given five,have given five,had given five
